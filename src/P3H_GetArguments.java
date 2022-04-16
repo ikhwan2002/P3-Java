@@ -5,4 +5,3 @@ public class P3H_GetArguments {
         System.out.println("Tahun : " + args[2]);
     }
 }
-M
